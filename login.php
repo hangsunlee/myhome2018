@@ -6,7 +6,7 @@
  * Time: 오전 11:04
  */?>
 <div id="login">
-    <form action="login_ok.php">
+    <form action="./login_ok.php" method="post">
       <dl>
           <dt><label for="id">아이디</label></dt><dd></dd><input type="text" id="id" name="id"></dd>
           <dt><label for="password">비밀번호</label></dt><dd><input type="password" id="password"name="password"></dd>

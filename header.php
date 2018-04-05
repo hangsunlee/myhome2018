@@ -1,6 +1,6 @@
 <header>
     <div class="wrap">
-        <h1 id="logo"><a href="../untitled3">서울디지텍고등학교</a></h1>
+        <h1 id="logo"><a href="./">서울디지텍고등학교</a></h1>
         <ul class="lnb">
                 <li><a href="#" id="btn_login">로그인 |</a></li>
                 <li><a href="./git.php">회원가입 |</a></li>
